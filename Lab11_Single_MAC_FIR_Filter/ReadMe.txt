@@ -1,3 +1,3 @@
-1. Lab_11_example_testbench¤ÎLab11_example_Zedboard¬°½d¨Ò½m²ß¡A½Ğ¦U¦ì¶]¹L¤@¦¸½T»{µ²ªG¥¿½T¡C
-2. Lab_11_HW_testbench¤ÎLab11_HW_Zedboard¬°¥»¦¸§@·~¡A½Ğ¦P¾Ç¥u§ó§ïsysctrl.vªº³¡¤À¡AÅıµ²ªG»P½d¨Ò¬Û²Å¡C
-3. HW©Î¬Oexample¦bZedBoard¶]¥X¨Óªº«e´Xµ§µ²ªG¤£¬Û¦P¬O¥¿±`ªº¡A½Ğ¦P¾Ç±qresult[09]=125«á­±¶}©lÅçÃÒµ²ªG¬O§_¥¿½T¡C
+1. Lab_11_example_testbenchåŠLab11_example_Zedboardç‚ºç¯„ä¾‹ç·´ç¿’ï¼Œè«‹å„ä½è·‘éä¸€æ¬¡ç¢ºèªçµæœæ­£ç¢ºã€‚
+2. Lab_11_HW_testbenchåŠLab11_HW_Zedboardç‚ºæœ¬æ¬¡ä½œæ¥­ï¼Œè«‹åŒå­¸åªæ›´æ”¹sysctrl.vçš„éƒ¨åˆ†ï¼Œè®“çµæœèˆ‡ç¯„ä¾‹ç›¸ç¬¦ã€‚
+3. HWæˆ–æ˜¯exampleåœ¨ZedBoardè·‘å‡ºä¾†çš„å‰å¹¾ç­†çµæœä¸ç›¸åŒæ˜¯æ­£å¸¸çš„ï¼Œè«‹åŒå­¸å¾result[09]=125å¾Œé¢é–‹å§‹é©—è­‰çµæœæ˜¯å¦æ­£ç¢ºã€‚
